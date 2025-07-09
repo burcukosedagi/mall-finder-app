@@ -1,0 +1,15 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.packages
+.idea/
+.vscode/
+
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
+# MacOS & Genel
+.DS_Store
