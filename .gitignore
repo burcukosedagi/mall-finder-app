@@ -13,3 +13,5 @@ npm-debug.log*
 
 # MacOS & Genel
 .DS_Store
+
+local.properties
